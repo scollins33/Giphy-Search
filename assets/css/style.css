@@ -1,0 +1,12 @@
+body {
+    background-image: url("../images/darkness.png");
+    padding-top: 20px;
+}
+
+.term-tag {
+    margin: 5px;
+}
+
+.form-group {
+    margin-top: 5px;
+}
